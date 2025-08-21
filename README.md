@@ -2,7 +2,7 @@
 
 ## 1. **[Vulnerability Identification](https://github.com/sherazi1214/Vulnerability-Identification-)**
 
-## Vulnerability Scanning
+## 2. Vulnerability Scanning
 
 **English:**
 Vulnerability Scanning is an automated process of identifying security weaknesses in systems, networks, and applications using specialized tools (like Nessus, Qualys, OpenVAS). It highlights misconfigurations, outdated software, missing patches, and insecure services.
